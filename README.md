@@ -17,15 +17,7 @@ Sample usage of images and inline styling
 
 An introductory demonstration of accessible and readable markup
 
-This is ideal for beginners learning the basics of HTML and webpage structure.
-
-🗂 File Structure
-/
-├── index.html      # Main syllabus webpage
-├── university.png  # University logo (referenced in the HTML)
-├── lecturer.jpg    # Lecturer profile image
-└── favicon.png     # Favicon used in the <head>
-(Ensure the image files exist in your repository, or update paths accordingly.)
+This is ideal for beginners learning the basics of HTML and webpage structure
 
 🚀 Features Demonstrated
 ✔ Semantic HTML
@@ -45,5 +37,5 @@ Uses basic inline CSS for quick formatting examples.
 
 🔧 How to View
 
-Open index.html in any modern web browser.
+
 
