@@ -19,7 +19,6 @@ An introductory demonstration of accessible and readable markup
 
 This is ideal for beginners learning the basics of HTML and webpage structure
 
-🚀 Features Demonstrated
 ✔ Semantic HTML
 <h1>, <h2>, <p>, <blockquote>, <cite>, <dl>, <dt>, <dd>
 
