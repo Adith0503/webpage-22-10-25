@@ -19,22 +19,7 @@ An introductory demonstration of accessible and readable markup
 
 This is ideal for beginners learning the basics of HTML and webpage structure
 
-✔ Semantic HTML
-<h1>, <h2>, <p>, <blockquote>, <cite>, <dl>, <dt>, <dd>
 
-✔ Navigation
-Internal anchor links (href="#grading", etc.)
-
-✔ Tables
-A structured course schedule using <table>, <tr>, <th>, <td>
-
-✔ Lists
-Unordered (<ul>) and ordered (<ol>) lists
-
-✔ Inline Styling
-Uses basic inline CSS for quick formatting examples.
-
-🔧 How to View
 
 
 
